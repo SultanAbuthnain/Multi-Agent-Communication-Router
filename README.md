@@ -1,6 +1,6 @@
 # Multi-Agent Communication Router
 
-**Team Member:** Sultan Saad Abu Thnain
+**Name:** Sultan Saad Abu Thnain
 
 ## Project Write-Up
 
